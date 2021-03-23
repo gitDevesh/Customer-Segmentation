@@ -7,6 +7,7 @@ This case requires trainees to develop a customer segmentation to define marketi
 DATA DICTIONARY:
 
 CUST_ID: Credit card holder ID
+
 BALANCE: Monthly average balance (based on daily balance averages)
 BALANCE_FREQUENCY: Ratio of last 12 months with balance
 PURCHASES: Total purchase amount spent during last 12 months
