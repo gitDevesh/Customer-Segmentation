@@ -1,4 +1,4 @@
-# Customer-Segmentation
+# Credit Card Segmentation
 
 **BUSINESS CONTEXT:**
 
